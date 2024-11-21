@@ -1,0 +1,15 @@
+{
+  "wordCounts" : {
+    "" : 9843,
+    "that" : 1357,
+    "this" : 1184,
+    "vietnam" : 1156,
+    "from" : 1027,
+    "with" : 915,
+    "south" : 693,
+    "were" : 677,
+    "book" : 647,
+    "find" : 604
+  },
+  "urlsVisited" : 134
+}

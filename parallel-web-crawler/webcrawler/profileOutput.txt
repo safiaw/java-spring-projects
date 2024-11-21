@@ -1,0 +1,10 @@
+Run at Wed, 2 Oct 2024 17:23:32 GMT
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 10s 276ms
+The method com.udacity.webcrawler.ParallelWebCrawler#crawl is called 1 time(s).
+Thread Ids and count of threads that invoke the method:  { 1 : 1 } 
+
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 37s 866ms
+The method com.udacity.webcrawler.parser.PageParserImpl#parse is called 134 time(s).
+Thread Ids and count of threads that invoke the method:  { 16 : 30 ,18 : 29 ,19 : 24 ,20 : 51 } 
+
+
